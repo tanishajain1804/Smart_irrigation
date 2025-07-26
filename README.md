@@ -1,2 +1,2 @@
-# Smart-_irrigation
+# Smart_irrigation
 this is an  AICTE  internship .
